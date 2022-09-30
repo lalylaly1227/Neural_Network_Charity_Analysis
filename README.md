@@ -40,5 +40,12 @@ o	Compiling, Training, and Evaluating the Model
 * For my optimization model, I used the activation codes “relu” for the first layer and “sigmoid” for the other two layers and the output layer
 * With the simple optimizations I did to the code, I was able to increase the accuracy level from 73% to 78%. Additionally, I reduced the epochs from 100 to 50, thus increasing the speed.
 
+## Challenges
+I had to overcome a couple of challenges in order to get the job done
+![image](https://user-images.githubusercontent.com/105124485/193162510-cc10b533-798d-4210-a355-db0fc5db648d.png)
+
+* I was not able to install the TensorFlow on the Mac1 and had to use Google Colab instead. I did not want to mess something else on my computer
+* To read the CSV file I had to use the GitHub "raw" link instead of my computer's local drive
+
 ## Summary
 Sometimes less is more.  I found that the Random Forest worked best with less code and more speed. At the same time with a greater degree of accuracy.
