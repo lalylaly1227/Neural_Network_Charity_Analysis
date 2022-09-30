@@ -2,7 +2,20 @@
 
 # Overview of the analysis
 
-From Alphabet Soup’s business team, a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years to use for our analysis. This assignment consists of three technical analysis deliverables and a written report in an effort to develop a model that will accurately predict sound investments for the foundation. 
+From Alphabet Soup’s business team, a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years to use for our analysis. This assignment consists of three technical analysis deliverables and a written report in an effort to develop a model that will accurately predict sound investments for the foundation.
+
+The CSV file contained the following columns:
+* EIN and NAME—Identification columns
+* APPLICATION_TYPE—Alphabet Soup application type
+* AFFILIATION—Affiliated sector of industry
+* CLASSIFICATION—Government organization classification
+* USE_CASE—Use case for funding
+* ORGANIZATION—Organization type
+* STATUS—Active status
+* INCOME_AMT—Income classification
+* SPECIAL_CONSIDERATIONS—Special consideration for application
+* ASK_AMT—Funding amount requested
+* IS_SUCCESSFUL—Was the money used effectively
 
 ### Deliverable 1: Preprocessing Data for a Neural Network Model (also known as artificial neural networks, or ANN)
 
